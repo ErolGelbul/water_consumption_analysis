@@ -1,0 +1,7 @@
+Dam,River,Photo,Indicators,FSC,ThisWeek,LastWeek,LastYear
+Berg River Dam,Berg River,Photo,Indicators,127.1,73.7,75.2,49.9
+Steenbras Dam-Lower,Steenbras River,Photo,Indicators,33.9,50.2,51.7,35.6
+Steenbras Dam-Upper,Steenbras River,Photo,Indicators,31.9,70.0,69.8,92.4
+Theewaterskloof Dam,Riviersonderend River,Photo,Indicators,479.3,40.9,41.9,10.6
+Voelvlei Dam,Voelvlei River,Photo,Indicators,158.6,65.6,67.5,15.5
+Wemmershoek Dam,Wemmers River,Photo,Indicators,58.8,61.8,63.5,44.9
